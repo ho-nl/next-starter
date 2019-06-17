@@ -65,7 +65,5 @@ dist
 .serverless
 .idea
 
-src/generated
-
 .env.development
 .env.production
